@@ -1,24 +1,28 @@
-# Homework PM II
+# Final Project: Computerisation of a Service-Oriented Company
 
 ## Project Overview
-This repository contains the PM II homework assignment.  
-The project documents core system functions, process flow, and project schedule.
+This repository contains the complete proposal for the digital transformation and MIS implementation for a mid-sized service company. The project bridges the gap between operational data and strategic decision-making using a Hybrid MIS-DSS approach.
+
+## Final Project Deliverables
+- **Company Context:** Strategic and tactical management structure.
+- **System Logic:** Multi-layered MIS architecture (Data -> Logic -> Presentation).
+- **Infrastructure:** Hybrid Cloud concept and hardware justification.
+- **Implementation:** Full project lifecycle schedule and success metrics.
 
 ## Repository Structure
-- `docs/functions.md` – Description of core system functions with inputs, processes, outputs, feedback, and KPIs  
-- `diagram/functions.png` – Flow diagram of system functions  
-- `SCHEDULE.md` – Project phases, scope, duration, responsibilities, and deliverables  
+- `/docs/system_overview.md` – Company profile and system classification (MIS-DSS)
+- `/docs/mis_structure.md` – Structural layers and information flow logic
+- `/docs/infrastructure.md` – Hardware, cloud assumptions, and scalability
+- `/docs/functions.md` – Core functions and KPI definitions
+- `/diagram/` – Visual architecture and system flow diagrams
+- `SCHEDULE.md` – Detailed project implementation phases
 
-## Objectives
-- Define key system functions  
-- Identify performance indicators (KPIs)  
-- Visualize process flow  
-- Plan project execution phases  
-
-## Tools Used
-- GitHub (browser-based)
-- Markdown documentation
+## Key System Features
+- **Hybrid Cloud Model:** Balances local data control with cloud scalability.
+- **Decision Support:** Tools for monitoring efficiency and resource allocation.
+- **Feedback Loops:** Integrated control mechanisms for continuous improvement.
 
 ## Author
-Joshua Maru
-
+**Joshua Maru** Field of Study: Computer Science  
+Subject: Project Management in IT  
+Date: January 28, 2026
